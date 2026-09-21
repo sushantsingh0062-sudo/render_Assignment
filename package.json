@@ -2,5 +2,25 @@
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
-  }
+  },
+  "name": "render_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantsingh0062-sudo/render_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantsingh0062-sudo/render_Assignment/issues"
+  },
+  "homepage": "https://github.com/sushantsingh0062-sudo/render_Assignment#readme"
 }
