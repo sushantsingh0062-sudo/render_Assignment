@@ -4,12 +4,12 @@ const PORT = process.env.PORT || 8000
 
 
     
-app.post('/sendData',(req,res)=>{
+app.post('/postData',(req,res)=>{
     res.send("bolo beta kesa ho .....")
 })
 
 
-app.get ('/sendData',(req,res)=>{
+app.get ('/getData',(req,res)=>{
   res.send("jaldi bol ka subha panvel niklna hai.....")
 } )
     
